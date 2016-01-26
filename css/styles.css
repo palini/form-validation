@@ -1,0 +1,50 @@
+#content{
+	width : 500px;
+	height : 500px;
+	margin : 0 auto;
+}
+#customer{
+	background-color: lightpink;
+}
+h3{
+	padding-top : 10px;
+	padding-bottom: 20px;
+	padding-left: 150px;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+input {
+	width :200px;
+	!height : 20px;
+	padding-top: 10px;
+	padding-left: 10px;
+	border-radius: 5px;
+	font-size: 1em;
+	border : 1px solid grey;
+	margin-bottom: 10px;
+}
+#validationform label {
+	width : 150px;
+	float : left;
+	padding-left: 30px;
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+
+#submit {
+	width: 100px;
+	height : 30px;
+	margin-left: 200px;
+
+}
+
+#error {
+	color: red;
+	margin: 10px;
+}
+
+#address {
+	display: block;
+	width : 250px;
+	height : 50px;
+}
